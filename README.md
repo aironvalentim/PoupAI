@@ -1,6 +1,6 @@
 # PoupAI
 
-Descrição do produto:
+##Descrição do produto:
 
 Nossa empolgante proposta é desenvolver um aplicativo de finanças pessoais que ofereça flexibilidade e personalização, incorporando elementos de gamificação para motivar os jovens a gerenciar suas finanças de forma contínua e eficaz, facilitando a conquista do primeiro imóvel.
 
