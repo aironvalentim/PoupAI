@@ -6,7 +6,7 @@ Nossa empolgante proposta é desenvolver um aplicativo de finanças pessoais que
 
 Com recursos que permitem o acompanhamento de despesas, a criação de metas personalizadas e o planejamento financeiro a longo prazo, o aplicativo facilita a organização das finanças e orienta os usuários em direção à conquista de objetivos importantes, como a compra do primeiro imóvel. Nossa solução é acessível e adaptável às necessidades de cada indivíduo, tornando o processo de gerenciamento financeiro mais simples e alinhado às metas pessoais.
 
-Integrantes do grupo:
+### Integrantes do grupo:
 - Airon Valentin
 - Antônio Tenório
 - Gabriel Victor
