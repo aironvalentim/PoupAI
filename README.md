@@ -1,5 +1,9 @@
 # PoupAI
 
+## Objetivo Principal:
+
+Descomplicar as finanças para construir um futuro próspero desde já!
+
 ## Descrição do produto:
 
 Nossa empolgante proposta é desenvolver um aplicativo de finanças pessoais que combina flexibilidade, personalização e uma interface intuitiva e fácil de usar. Projetado especialmente para jovens, o aplicativo visa motivar os usuários a gerenciar suas finanças de maneira contínua e eficaz, ajudando-os a criar hábitos financeiros saudáveis e consistentes.
