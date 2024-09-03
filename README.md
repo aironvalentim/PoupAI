@@ -13,6 +13,7 @@ Integrantes do grupo:
 - Thaylane Paula
 - Ylson Santos
 
+## Entrega 01:
 Projeto no Jira:
 https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9
 
