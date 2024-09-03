@@ -24,3 +24,9 @@ https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A
 
 #### Screen Cast:
 https://drive.google.com/file/d/1hszGbKuoBmsxzFMtNETDEcY0LQH5Dglp/view?usp=sharing 
+
+### Backlog no jira:
+![image](https://github.com/user-attachments/assets/a8de5be4-8f8c-4558-98a4-06d3d1a52774)
+
+### Quadro no jira: 
+![image](https://github.com/user-attachments/assets/a9dc03e5-4385-48a0-9da5-dcae2cb4c6d8)
