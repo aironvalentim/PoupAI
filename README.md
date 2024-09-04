@@ -23,7 +23,7 @@ Com recursos que permitem o acompanhamento de despesas, a criação de metas per
 #### Projeto no Jira:
 https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9
 
-[![Projeto no Jira](https://img.shields.io/badge/Button_Text-Color?style=for-the-badge)]([https://link-destino.com](https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9))
+<a href="[https://link-destino.com](https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9)" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Button Text</a>
 
 #### Protótipo de Lo-Fi:
 https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A7%C3%A3o-para-comprar-casa?node-id=0-1&t=YioWByhID4FSgdmo-1
