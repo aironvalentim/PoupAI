@@ -33,14 +33,17 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 
 
 
-### Integrantes do grupo:
-- Airon Valentin
-- Antônio Tenório
-- Gabriel Victor
-- Gustavo Carvalho
-- Matheus Rian
-- Thaylane Paula
-- Ylson Santos
+### Integrantes do Grupo
+
+| Nome               | Função                |
+|--------------------|------------------------|
+| Airon Valentim     | Desenvolvedor          |
+| Antônio Tenório    | Líder Técnico          |
+| Gabriel Victor     | Desenvolvedor          |
+| Gustavo Carvalho   | Desenvolvedor          |
+| Matheus Rian       | Gerente de Projeto     |
+| Thaylane Paula     | Desenvolvedora         |
+| Ylson Santos       | Desenvolvedor          |
 
 ## Entrega 01:
 #### Projeto no Jira:
