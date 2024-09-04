@@ -26,6 +26,10 @@ https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?clou
 #### Protótipo de Lo-Fi:
 https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A7%C3%A3o-para-comprar-casa?node-id=0-1&t=YioWByhID4FSgdmo-1
 
+[![Button Text](https://img.shields.io/badge/Button_Text-Color?style=for-the-badge)]([https://link-destino.com](https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A7%C3%A3o-para-comprar-casa?node-id=0-1&t=YioWByhID4FSgdmo-1))
+
+<a href="[https://link-destino.com](https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A7%C3%A3o-para-comprar-casa?node-id=0-1&t=YioWByhID4FSgdmo-1)" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Button Text</a>
+
 #### Screen Cast:
 https://drive.google.com/file/d/1hszGbKuoBmsxzFMtNETDEcY0LQH5Dglp/view?usp=sharing 
 
