@@ -10,6 +10,44 @@ Nossa empolgante proposta é desenvolver um aplicativo de finanças pessoais que
 
 Com recursos que permitem o acompanhamento de despesas, a criação de metas personalizadas e o planejamento financeiro a longo prazo, o aplicativo facilita a organização das finanças e orienta os usuários em direção à conquista de objetivos importantes, como a compra do primeiro imóvel. Nossa solução é acessível e adaptável às necessidades de cada indivíduo, tornando o processo de gerenciamento financeiro mais simples e alinhado às metas pessoais.
 
+
+
+
+# PoupAI
+
+## Objetivo Principal
+
+**Descomplicar as finanças para construir um futuro próspero desde já!**
+
+## Descrição do Produto
+
+Bem-vindo ao **PoupAI**! Estamos empolgados em apresentar nosso aplicativo de finanças pessoais, desenvolvido com foco em **flexibilidade**, **personalização** e uma **interface intuitiva e fácil de usar**.
+
+### Por Que Escolher o PoupAI?
+
+Nosso aplicativo é especialmente projetado para **jovens** e visa:
+
+- **Motivar e Engajar**: Ajuda os usuários a gerenciar suas finanças de maneira contínua e eficaz.
+- **Criar Hábitos Financeiros Saudáveis**: Facilita a construção de práticas financeiras consistentes e positivas.
+
+### Recursos Principais
+
+- **Acompanhamento de Despesas**: Mantenha controle total sobre onde seu dinheiro está indo.
+- **Metas Personalizadas**: Defina e alcance objetivos financeiros que são importantes para você.
+- **Planejamento Financeiro a Longo Prazo**: Prepare-se para grandes marcos, como a compra do primeiro imóvel.
+
+### Por Que PoupAI?
+
+Nosso aplicativo é:
+
+- **Acessível**: Ideal para todos os níveis de conhecimento financeiro.
+- **Adaptável**: Flexível para se ajustar às suas necessidades e metas pessoais.
+
+Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e **alinhado** aos seus objetivos pessoais. Venha construir um futuro financeiro sólido com a gente!
+
+
+
+
 ### Integrantes do grupo:
 - Airon Valentin
 - Antônio Tenório
