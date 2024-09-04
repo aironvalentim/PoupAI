@@ -47,7 +47,7 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 
 ## Entrega 01:
 #### Projeto no Jira:
-https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9
+[![Acessar o Jira](https://img.shields.io/badge/Acessar_Jira-0073e6?style=for-the-badge&logo=jira&logoColor=white)](https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9)
 
 #### Protótipo de Lo-Fi:
 https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A7%C3%A3o-para-comprar-casa?node-id=0-1&t=YioWByhID4FSgdmo-1
