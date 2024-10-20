@@ -1,7 +1,15 @@
-function App() {
-  return (
-    <h1>Hello React</h1>
-  )
-}
+import React from 'react';
+import Navbar from './componentes/navbar';
+import Dropdow from './componentes/dropdown';
+import { useValor, ValorProvider } from './componentes/valorcontext';
 
-export default App
+const App: React.FC = () => (
+  <div>
+    <ValorProvider>
+      <Navbar />
+      <Dropdow />
+    </ValorProvider>
+  </div>
+);
+
+export default App;
