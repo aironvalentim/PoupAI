@@ -41,7 +41,7 @@ const valor: React.FC = () => {
       <Card sx={{ minWidth: 300 }}>
         <CardContent>
           <Typography variant="h5" align="center" gutterBottom>
-            Insira um Valor
+            Insira o valor do imovél
           </Typography>
           <TextField
             label="R$ XXXXX.XX"
@@ -75,7 +75,7 @@ const valor: React.FC = () => {
             left: '20px',
           }}
         >
-          Voltar
+          voltar
         </Button>
         </CardContent>
       </Card>
