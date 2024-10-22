@@ -45,7 +45,7 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 | Thaylane Paula     | Desenvolvedora         |
 | Ylson Santos       | Desenvolvedor          |
 
-## Entrega 01:
+## Entrega 02:
 #### Projeto no Jira:
 [![Acessar o Jira](https://img.shields.io/badge/Acessar_Jira-0073e6?style=for-the-badge&logo=jira&logoColor=white)](https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9)
 
@@ -57,6 +57,9 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 
 ### Histórias 3C:
 [![Acessar Documento](https://img.shields.io/badge/Acessar_Documento-Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/14raMNw8zXwIk9Ef89VTpdRGWBrvTSuYJNRGe4b4rT6I/edit?usp=sharing)
+
+#### Diagrama de Atividades:
+[![Acessar Documento](https://drive.google.com/file/d/1pmoRY0hcT-1jzDS_RTh_sXdeIjEYki41/view?usp=sharing)
 
 ### Backlog no jira:
 ![image](https://github.com/user-attachments/assets/a8de5be4-8f8c-4558-98a4-06d3d1a52774)
