@@ -79,9 +79,10 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 ### Screen
 ![image](https://github.com/user-attachments/assets/a8aec0c5-9da1-4aca-94ad-66c5f9d980fa)
 Pimeira tela que permite a seleção da meta.
-
+---
 ![image](https://github.com/user-attachments/assets/72616b59-1cfd-4a0a-a09e-a5effa84182b)
 Segunda tela que permite o cadastro de um valor X da meta.
-
+---
 ![image](https://github.com/user-attachments/assets/d7cbf3b3-4a2a-4670-bd29-272151a6cbaf)
 Terceira tela que retorna uma previsão do valor da entrada e sugestões de como alcançar esse valor.
+---
