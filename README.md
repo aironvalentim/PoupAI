@@ -65,6 +65,9 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 ### Backlog no jira:
 ![image](https://github.com/user-attachments/assets/a8de5be4-8f8c-4558-98a4-06d3d1a52774)
 
+![image](https://github.com/user-attachments/assets/747e12f8-52f4-4129-aee9-c5d0ad31b6f1)
+
+
 ### Quadro no jira: 
 ![image](https://github.com/user-attachments/assets/a9dc03e5-4385-48a0-9da5-dcae2cb4c6d8)
 
