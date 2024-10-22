@@ -49,18 +49,18 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 #### Projeto no Jira:
 [![Acessar o Jira](https://img.shields.io/badge/Acessar_Jira-0073e6?style=for-the-badge&logo=jira&logoColor=white)](https://team10cschool.atlassian.net/jira/software/projects/TEAMFIN/boards/2?cloudId=81f50d31-d3ff-495b-ad25-71ef391cdff1&atlOrigin=eyJwIjoiaiIsImkiOiIyNGEwYmQ1ZjlkMjI0ZDk5YmM5NjIzNDBhNDIxNDhkZSJ9)
 
+
 #### Protótipo de Lo-Fi:
 [![Acessar Protótipo de Lo-Fi](https://img.shields.io/badge/Acessar_Prot%C3%B3tipo-Figma-4c9f2f?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/aUDMF8NGdU6QqNks43swGO/%C3%89pico%3A-Plano-de-a%C3%A7%C3%A3o-para-comprar-casa?node-id=0-1&t=YioWByhID4FSgdmo-1)
 
-#### Screen Cast:
-[![Acessar Screen Cast](https://img.shields.io/badge/Acessar_Documento-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1hszGbKuoBmsxzFMtNETDEcY0LQH5Dglp/view?usp=sharing)
 
 ### Histórias 3C:
 [![Acessar Documento](https://img.shields.io/badge/Acessar_Documento-Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/14raMNw8zXwIk9Ef89VTpdRGWBrvTSuYJNRGe4b4rT6I/edit?usp=sharing)
 
-### Diagrama de Atividades:
 
+### Diagrama de Atividades:
 [![Acessar Documento](https://img.shields.io/badge/Acessar_Documento-Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://drive.google.com/file/d/1pmoRY0hcT-1jzDS_RTh_sXdeIjEYki41/view?usp=sharing)
+
 
 ### Backlog no jira:
 ![image](https://github.com/user-attachments/assets/a8de5be4-8f8c-4558-98a4-06d3d1a52774)
@@ -71,6 +71,17 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 ### Quadro no jira: 
 ![image](https://github.com/user-attachments/assets/a9dc03e5-4385-48a0-9da5-dcae2cb4c6d8)
 
+
 ### Programação em pares:
 ![image](https://github.com/user-attachments/assets/6d00c654-951e-4c9d-9622-4e0c3e03d9e5)
 
+
+### Screen
+![image](https://github.com/user-attachments/assets/a8aec0c5-9da1-4aca-94ad-66c5f9d980fa)
+Pimeira tela que permite a seleção da meta.
+
+![image](https://github.com/user-attachments/assets/72616b59-1cfd-4a0a-a09e-a5effa84182b)
+Segunda tela que permite o cadastro de um valor X da meta.
+
+![image](https://github.com/user-attachments/assets/d7cbf3b3-4a2a-4670-bd29-272151a6cbaf)
+Terceira tela que retorna uma previsão do valor da entrada e sugestões de como alcançar esse valor.
