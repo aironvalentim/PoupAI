@@ -67,3 +67,7 @@ Com o PoupAI, o gerenciamento financeiro torna-se um processo mais **simples** e
 
 ### Quadro no jira: 
 ![image](https://github.com/user-attachments/assets/a9dc03e5-4385-48a0-9da5-dcae2cb4c6d8)
+
+### Programação em pares:
+![image](https://github.com/user-attachments/assets/6d00c654-951e-4c9d-9622-4e0c3e03d9e5)
+
